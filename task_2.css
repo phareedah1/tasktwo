@@ -147,7 +147,7 @@ nav .icon-burger .line{
     margin-top:100px;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("images/01.jpg");
+    background-image: url("./images/01.jpg");
     background-repeat: no-repeat;
     /* background-size: 100%; */
     width: 90%;
@@ -262,7 +262,7 @@ nav .icon-burger .line{
     margin-top:100px;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("images/07.jpg");
+    background-image: url("./images/07.jpg");
     background-repeat: no-repeat;
     /* background-size: 100%; */
     width: 100%;
@@ -347,7 +347,7 @@ nav .icon-burger .line{
     margin-top:100px;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("images/13.jpg");
+    background-image: url("./images/13.jpg");
     background-repeat: no-repeat;
     /* background-size: 100%; */
     width: 100%;
@@ -660,18 +660,15 @@ nav .icon-burger .line{
 
 
 
-
     .sixth_column{
-        position: relative;
         margin-top:100px;
         font-size: 14px;
         font-family: Arial, Helvetica, sans-serif;
         background-image: url("./images/13.jpg");
         background-repeat: no-repeat;
-        /* background-size: 100%; */
         width: 100%;
         height: 700px;
-        padding: 42px 0;
+        padding: 1em 0em;
         background-attachment: fixed;
         background-position: top;
         text-align: center;
@@ -723,8 +720,6 @@ nav .icon-burger .line{
 
 
     .fourth_column{
-      position: relative;
-      margin-top:0px;
       margin-bottom:30px;
       font-size: 14px;
       font-family: Arial, Helvetica, sans-serif;
@@ -733,7 +728,7 @@ nav .icon-burger .line{
       /* background-size: 100%; */
       width: 100%;
       height: 150px;
-      padding: 42px 0;
+      padding: 1em 0em;
       background-attachment: fixed;
       background-position: top;
       text-align: center;
