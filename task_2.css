@@ -150,7 +150,7 @@ nav .icon-burger .line{
     background-image: url("images/01.jpg");
     background-repeat: no-repeat;
     /* background-size: 100%; */
-    width: 100%;
+    width: 90%;
     height: 500px;
     padding: 42px 0;
     background-attachment: fixed;
@@ -160,8 +160,6 @@ nav .icon-burger .line{
   }
   
   .hero_img-h2 {
-    position: relative;
-    top: 50px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     color: #f2f2f2;
@@ -491,6 +489,12 @@ nav .icon-burger .line{
         font-size: 16.8px; 
       }
 
+
+      .ead1{
+        position: relative;
+        left: 40px;
+      }
+
       .head4{
         text-align: center;
         font-size: 14px;
@@ -504,8 +508,9 @@ nav .icon-burger .line{
         text-align: center;
         font-size: 14px;
         font-family: Arial, Helvetica, sans-serif;
+        position: relative;
+        left: 40px;
         margin: 0;
-        padding: 0;
         border: 0;
       }
 
@@ -523,7 +528,7 @@ nav .icon-burger .line{
       .article_type-1 {
         font-size: 14px;
         font-family: Arial, Helvetica, sans-serif;
-        margin: 0 auto;
+        margin-left: 20px;
         background-color: #F2F2F2;
         margin-top: 28px;
         text-align: center;
@@ -555,7 +560,7 @@ nav .icon-burger .line{
         display: flex;
         flex-direction: column;
         padding: 0;
-        margin: 0;
+        margin-left:20px;
         border: 0;
         position: relative;
         bottom: 80px;
@@ -566,7 +571,7 @@ nav .icon-burger .line{
       display: flex;
       flex-direction: column;
       padding: 0;
-      margin: 0;
+      margin-left: 20px;
       border: 0;
       position: relative;
       bottom: 0px;
@@ -599,7 +604,7 @@ nav .icon-burger .line{
 
     
     ._08{
-      width: 100%;
+      width: 360px;
       height: 350px;
     }
 
@@ -610,6 +615,14 @@ nav .icon-burger .line{
       width: 100%;
       height: 150px;
       margin-top:40px;
+    }
+
+    .butt{
+      width: 150px;
+      height: 35px;
+      border: none;
+      border-radius: 6px;
+      color: white; 
     }
 
     .bu1{
@@ -635,13 +648,13 @@ nav .icon-burger .line{
 
     .bu5{
       position: relative;
-      left: 130px;
+      left: 110px;
       top: 5px;
     }
 
     .bu6{
       position: relative;
-      left: 120px;
+      left: 110px;
       top: 10px;
     }
 
