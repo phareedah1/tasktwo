@@ -5,6 +5,7 @@ html {
 body{
     padding: 0;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* code for navbar starts here  */
@@ -34,7 +35,7 @@ nav .links{
     height: 100%;
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 0px;
     align-items: center;
 }
 
@@ -44,12 +45,14 @@ nav .links li{
 
 nav .links a{
     display:block;
-    padding: 1em;
+    padding: 15px;
     font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     color: white;
     text-decoration: none;
-    background-color: grey;
+    border: 2px solid #49505f;
+    background-color: #383e4c;;
     /* margin: 20px; */
 }
 
@@ -216,13 +219,10 @@ nav .icon-burger .line{
 }
 
 
-.head1{
-  color: #178A27;
-}
-
-.head3{
+.head2{
   color: #1686c1;
 }
+
 .bu1{
     background-color: #178A27;
     position: relative;
@@ -317,7 +317,7 @@ a.bu1:hover{
 }
 
 .head5{
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
 }
 
