@@ -87,6 +87,20 @@ nav .icon-burger .line{
         height: 40px;
         width: 45px;
     } */ */
+
+    nav .links a{
+      display:block;
+      padding: 15px;
+      font-size: 25px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      color: white;
+      text-decoration: none;
+      border: none;
+      /* margin: 20px; */
+  }
+
+  
     nav .logo{
         float: none;
         width: auto;
@@ -877,6 +891,18 @@ a.bu1:hover{
         /* margin: 5px;
         border-radius: 3px; */
     }
+
+    nav .links a{
+      display:block;
+      padding: 15px;
+      font-size: 25px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      color: white;
+      text-decoration: none;
+      border: none;
+      /* margin: 20px; */
+  }
 
 
     .message{
