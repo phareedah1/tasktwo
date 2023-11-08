@@ -651,6 +651,8 @@ a.bu1:hover{
     
     .he2{
       padding: 25px;
+      position: relative;
+      bottom: 20px;
     }
     ._08{
       width: 360px;
@@ -666,6 +668,8 @@ a.bu1:hover{
       margin-top:40px;
     }
 
+
+    
     .butt{
       width: 150px;
       height: 35px;
@@ -676,6 +680,7 @@ a.bu1:hover{
     .bu1{
       position: relative;
       left: 0px;
+      bottom: 20px;
       color: white; 
       padding: 10px;
       margin-bottom: 20px;
@@ -683,6 +688,7 @@ a.bu1:hover{
 
     .bu2{
       position: relative;
+      bottom: 20px;
       left: 0px;
       color: white; 
       padding: 10px;
@@ -691,6 +697,7 @@ a.bu1:hover{
 
     .bu3{
       position: relative;
+      bottom: 20px;
       left: 0px;
       color: white; 
       padding: 10px;
@@ -786,8 +793,6 @@ a.bu1:hover{
         position: relative;
         left: 10px;
       }
-
-
 
 
 
